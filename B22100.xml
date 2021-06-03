@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament declaring the causes wherefore after the refusall of many remonstrances, declaration and treaties, had and sent by the kingdome of Scotland, unto His Maiesty for the more speedy ending</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22100</idno><idno type="EEBO-CITATION">12114282</idno>
+  <idno type="VID">196912</idno>
+  <idno type="EEBO-PROQUEST">2240918663</idno>
+  
+            <idno type="STC">Wing E1836</idno>
+            <idno type="OCLC">12114282</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22100)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196912)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 240:E73, no 5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament declaring the causes wherefore after the refusall of many remonstrances, declaration and treaties, had and sent by the kingdome of Scotland, unto His Maiesty for the more speedy ending</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>27 Octob. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The "foregoing ordinance" mentioned on the t.p. is An ordinance of the Lords and Commons assembled in Parliament, for the raising of 66666 l. 13 s. 4 d. by way of loane but is lacking on film.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Taxation --  Law and legislation --  England.</term>
+               <term type="topical_term">Debts, Public --  England.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196912:1"/>
+            <pb facs="tcp:196912:1"/>
+            <p>AN ORDINANCE OF THE LORDS AND COMMONS Assembled in Parliament, DECLARING The causes wherefore after the refu<g ref="char:EOLhyphen"/>sall of many Remonstrances, Declarations, and Treaties, had and sent by the Kingdome of <hi>Scotland,</hi> unto His Maiesty, for the more speedy ending of these unhappy differences, and finding the willingnesse of our brethren the <hi>Scots</hi> to stand up with them in the defence of the Protestant Religion, our Lawes and Liberties, against the desperate designes of Papists, and other ill-affected persons, who seeke the ruines of both Kingdomes. They now doe Declare, That whoso<g ref="char:EOLhyphen"/>ever shall contribute toward the advance<g ref="char:EOLhyphen"/>ment of the said Army of Scots, shall be secu<g ref="char:EOLhyphen"/>red by the Publique faith of both Kingdoms:</p>
+            <p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="license">
+                           <p>
+                              <hi>COmmanded to be Printed and annexed to the fore<g ref="char:EOLhyphen"/>going Ordinance.</hi>
+                           </p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed 27 <hi>Octob.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proclamation">
+            <pb n="2" facs="tcp:196912:2"/>
+            <head>
+               <hi>Die Lunae</hi> 16. <hi>Octob.</hi> 1643.</head>
+            <head type="sub">An Ordinance of the Lords and Commons Assembled in Parliament, for the repayment of all such sums of mony, as are, or shall be lent by any person or persons for the speedy bringing of our Brethren of Scotland into this Realme, for our Assistance in this present War.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords and Commons assembled in Par<g ref="char:EOLhyphen"/>liament, taking into their serious considerati<g ref="char:EOLhyphen"/>on the Treacherous, and bloody Plots, Con<g ref="char:EOLhyphen"/>spiracies, Attempts, and practises of the Ene<g ref="char:EOLhyphen"/>mies of God against the true Religion, &amp; pro<g ref="char:EOLhyphen"/>fessors thereof, in all places, especially in the Kingdomes of <hi>England, Scotland &amp; Ireland,</hi> ever since the reformation of Religion, and how much their rage, power and presumption are of late, and at this time encreased and exercised; Where<g ref="char:EOLhyphen"/>of the deplorable estate of the Church and Kingdome of <hi>Ireland,</hi> the distempered estate of this Church and King<g ref="char:EOLhyphen"/>dome, &amp; the dangerous estate of the Church and Kingdome of <hi>Scotland,</hi> are present and publique testimonies; And find<g ref="char:EOLhyphen"/>ing that their supplications, remonstrances, protestations, &amp; treaties, have nothing at all prevailed: But that the averse party doth still endeavour the destruction of our Religion, Lawes, and Liberties, by force, and open violence: And
+<pb n="3" facs="tcp:196912:2"/> finding the same popish, and Iesuited councells, and practi<g ref="char:EOLhyphen"/>ses, which have brought the two Kingdoms of <hi>England,</hi> and <hi>Ireland,</hi> into the lamentable condition under which they now groane, to have in the intentions of the Authors and Contrivers of them extended likewise unto the king<g ref="char:EOLhyphen"/>dome of <hi>Scotland;</hi> In this common distraction and dan<g ref="char:EOLhyphen"/>ger of all the three Kingdoms, as an effectuall meanes of their preservation; They have thought it necessary that all the well affected to the true Protestant Religion, and just Liberties of the Subiects, in the thrée kingdomes, should enter into a néerer union, and association, for the mu<g ref="char:EOLhyphen"/>tuall defence of each other; And in pursuance thereof, a so<g ref="char:EOLhyphen"/>lemne league and covenant for Reformation and Defence of Religion, the honour and happinesse of the King, and the peace and safety of the thrée Kingdoms hath béen agréed upon by the two Kingdomes of <hi>England</hi> and <hi>Scotland;</hi> Which by the members of both Houses of the Parliament of <hi>England,</hi> the Members of the Assembly of Divines, and the Commissioners of the Assembly of the Church of <hi>Scotland</hi> hath béen already taken, and subscribed; And is now taking, and to be taken in the Cities of <hi>London,</hi> and <hi>Westminster,</hi> the Kingdom of <hi>Scotland,</hi> and all other parts of this Kingdome, and in the Realme of <hi>Ireland.</hi> And whereas each person who hath taken or shall take the said Covenant, is bound according to his place and calling, in this common cause of Religion, Liberty, and peace of the Kingdoms, to assist and defend all those that enter into the same, in the executing and pursuing thereof; And that it cannot be expected that the contrivers and authors of our present troubles, will thereby be any whit moved to desist from their wicked enterprises, But rather that their ma<g ref="char:EOLhyphen"/>lice will be the more encreased; Therefore, for the better resisting thereof, and the spéedier setling of a blessed peace, There are likewise certaine Articles agréed upon by the
+<pb n="4" facs="tcp:196912:3"/> two Houses of Parliament, and the Kingdome of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> whereby, among other things our Brethren of the Kingdome of <hi>Scotland</hi> for our assistance in this present War, are spéedily to send an Army of one and twenty thou<g ref="char:EOLhyphen"/>sand Horse and Foote, and a traine of artillery sutable, into this Kingdome: And whereas the charge of levying, arm<g ref="char:EOLhyphen"/>ing and bringing those Forces together furnished, as likewise the fitting the traine of Artillery will necessarily require great sums of money, which our Brethren of <hi>Scot<g ref="char:EOLhyphen"/>land</hi> by reason of the many charges that have laine upon them of late by their <hi>Irish</hi> Army, and late warres, are not able for the present to raise within that kingdome; And so much the rather, by reason that the Brotherly assistance is not yet paid unto them, we are by these Articles presently to pay unto them the sum of one hundred thousand pounds by way of advance, towards the monthly payments to be made to their Army, after such time as they shall make their first entrance into this Kingdome; and by those articles our Brethren of <hi>Scotland,</hi> to manifest their wil<g ref="char:EOLhyphen"/>lingnes to their utmost ability to be helpefull to this king<g ref="char:EOLhyphen"/>dome in this common cause, have agréed to give the pub<g ref="char:EOLhyphen"/>lique Faith of the kingdome of <hi>Scotland</hi> to be joyntly made use of, with the publique Faith of the kingdome of <hi>England</hi> for the present taking up of two hundred thou<g ref="char:EOLhyphen"/>sand pounds sterling, in the kingdome of <hi>England,</hi> or else<g ref="char:EOLhyphen"/>where, for the spéedy procuring the said 100000 l. sterling as aforesaid; as also a considerable summe for the satis<g ref="char:EOLhyphen"/>fying, in good proportion, the arreares of the <hi>Scotish</hi> army in <hi>Ireland.</hi>
+            </p>
+            <p>The Lords and Commons likewise sithence the send<g ref="char:EOLhyphen"/>ing of those propositions or articles from the kingdome of <hi>Scotland,</hi> being credibly informed, that nothing in hu<g ref="char:EOLhyphen"/>mane probability can delay their speedy march into this Realme, but only the want of money; and considering the
+<pb n="5" facs="tcp:196912:3"/> great advantages that by delay of their comming, will be lost, and the dangers that thereupon are likely to ensue, not being otherwise enabled to the speedy raysing the said sums as the Exigency of the occasion requires; They have made a Committee to procure by loane, or otherwise, the said sums of money; And whereas diverse well af<g ref="char:EOLhyphen"/>fected persons have lent and subscribed to lend, diverse sums of money for that purpose, &amp; as they believe, diverse others well affected to our Religion, and the Liberties of the subject, will doe the like; Now for the security of such persons and provision for the repayment of such sums, The Lords and Commons now assembled in Parliament, doe hereby Ordaine, Order, and Declare, That the severall sums of money so lent, and to be lent as aforesaid, shall to<g ref="char:EOLhyphen"/>gether with the consideration of eight pound <hi>per cent.</hi> for the time of forbearance, be repaid unto the persons that shall lend the same; for performance whereof, they doe her<g ref="char:EOLhyphen"/>by engage the publique Faith of this kingdom, being con<g ref="char:EOLhyphen"/>fident that our Brethren of <hi>Scotland</hi> according to the a<g ref="char:EOLhyphen"/>gréement in the said Articles mentioned, will in like manner joyntly engage the publick Faith of that kingdome; And for the further encouragement of such persons who have lent, or shall hereafter lend any sums of money to the uses aforesaid, the Lords and Commons doe further Or<g ref="char:EOLhyphen"/>daine, Order, and Declare, That the thirty thousand pounds heretofore Ordained and appointed by an Ordi<g ref="char:EOLhyphen"/>nance of the Lords and Commons towards the payment of the arreares of the <hi>Scotish</hi> Army in <hi>Ireland,</hi> shall be paid unto the persons so lending; And doe likewise Ordaine, or<g ref="char:EOLhyphen"/>der, and declare, That forty thousand pounds more, over &amp; besides the said thirty thousand pounds out of the Rents, Issues, and profits that shal be first received upon the Or<g ref="char:EOLhyphen"/>dinance, or Ordinances of Sequestration of the estates of Malignants throughout the Realme of <hi>England,</hi> shall be
+<pb n="6" facs="tcp:196912:4"/> paid unto the persons that have and shall lend the said sums of Money; provided alwayes, that this Ordinance shall not in any sort be prejudiciall to any former assign<g ref="char:EOLhyphen"/>ments, or designations of Money, to be paid to any other uses upon the said Ordinance, or Ordinances of Seque<g ref="char:EOLhyphen"/>strations.</p>
+            <p>And whereas by the blessing of God it may be expected, that upon the comming in of our Brethren of <hi>Scotland,</hi> the Townes of <hi>Newcastle, Sunderland,</hi> and the members wil be reduced to the obedience of the King and Parliament, they being credibly informed, that great quantities of coals belonging to Delinquents, and others, within the Ordi<g ref="char:EOLhyphen"/>nance of Sequestration, are already digged, and fit for sale; They doe hereby Ordaine, Order and Declare, That such Coales, as likewise the profits that shall hereafter be made of any Coale-pits, belonging to such persons, shall be and remaine, and shall be disposed of for the repayment of the persons that shall lend such sums of Money; And they doe further Ordaine, Order, and Declare, that upon the Coales of all other person and persons within the said Townes of <hi>Newcastle, Sunderland</hi> and the members, two shillings six pence shall be paid out of every Chaldron of Coales that shall be carried by Sea to any parts of this Realme; And thirtéen shillings and foure pence upon every Chaldron that shall be transported to any parts beyond the Seas; The said rates to continue for and during the space of three yéers from the time that the said Townes shall be reduced to such Obedience; And to the intent, that the profits aforesaid arising upon Coales, may be applyed to the purposes aforesaid, the said Trade of Coales shall during the time aforesaid be wholly under the Order regu<g ref="char:EOLhyphen"/>lation, and surveigh of the Committée of Parliament, and City of <hi>London</hi> already appointed for raising of the said loanes and sums of Money; And whereas no sums of mo<g ref="char:EOLunhyphen"/>ney
+<pb n="7" facs="tcp:196912:4"/> are by the true intent of the said Articles to bee paid towardes the maintenance of the <hi>Scottish</hi> Army, for above the space of three moneths after their comming into this Realme, other then as aforesaid, whereby during that time, great sums of Money may be expected out of the estates of Papists, Delinquents, and others within the Ordinance of Sequestration. It is further Ordered, Or<g ref="char:EOLhyphen"/>dained and Declared, That the Rents, Issues and Profits of such estates during that time shall likewise be employed for and toward the repayment of the sums of Money lent, and to be lent as aforesaid; And for that purpose shall be wholly during the time aforesaid under the Order, regula<g ref="char:EOLhyphen"/>tion and surveigh of the said Committée of the Parliament and City, and of such persons as shall be appointed to Or<g ref="char:EOLhyphen"/>der the Sequestrations in those parts, And in case any sum of Money shall be borrowed in the parts beyond the Seas, upon the joynt publique Faith of both the King<g ref="char:EOLhyphen"/>domes; The said loanes and sums of Money, shall, out of the same, bee repaid unto the persons that shall lend the same; And it is further Ordered, Ordained and Declared, that the said sum of two hundred thousand pounds, to be lent as aforesaid, shall bee divided into thrée equall and even payments, each payment amounting to sixty six thou<g ref="char:EOLhyphen"/>sand six hundred sixty six pounds, thirtéene shillings foure pence, And that the persons that shall first advance and lend the sum of 66666 l. 13. s. 4. d. Shall bee first satisfied and paid, the said payment to be made in manner follow<g ref="char:EOLhyphen"/>ing, That is to say, by six equall and even payments, wher<g ref="char:EOLhyphen"/>of each sum amounteth to eleven thousand one hundred eleven pounds, two shillings two pence ob q. The said summ of 11111 l 2. s. 2 d ob q to be proportionably paid to the persons that lend the first sum of 66666 l. 13. s. 4. d. And after the payment of the first 11111 l. 2. s. 2 d. ob q. Then the like payments from time to time to bee made untill the
+<pb n="8" facs="tcp:196912:5"/> whole sum of the first 66666 l. 13. s. 4 d. shall be paid; And the other two payments of the residue of the 200000 l. shal be paid in order of time, proportion, and manner as afore<g ref="char:EOLhyphen"/>said; And it is hereby Ordered, Ordained and Declared, That <hi>Richard Waring</hi> of <hi>London</hi> Grocer, and <hi>Michael Herring</hi> of <hi>London</hi> Merchant, shall be, and they are here<g ref="char:EOLhyphen"/>by appointed to be the Treasurers for the receiving of all such sum and sums of mony as shall bee lent to the purpo<g ref="char:EOLhyphen"/>ses aforesaid, and that any writing under the hands of the said <hi>Richard Waring,</hi> and <hi>Michael Herring,</hi> testifying the receipt of any such sums of Mony to be lent as aforesaid, shall sufficiently inable the persons that shall lend such sums of Mony to demand and receive the same; And the said <hi>Richard Waring,</hi> and <hi>Michael Herring,</hi> for their pains and attendance upon the said service shall be allowed one penny in the pound, out of the monies received by them up<g ref="char:EOLhyphen"/>on the Loans before mentioned: And it is further Ordered, Ordained and declared, That the Committée of Parlia<g ref="char:EOLhyphen"/>ment, and Citty of <hi>London</hi> appointed for raising the said sum and sums of Mony or any five of them, shall have pow<g ref="char:EOLhyphen"/>er from time to time by hils of Exchange, or otherwise, to returne or send such sum and sums of Mony as shall bee lent for the purposes aforesaid, unto the Committée now residing in <hi>Scotland,</hi> appointed by the Lords and Com<g ref="char:EOLhyphen"/>mons or to any other person that may with most conveni<g ref="char:EOLhyphen"/>ence pay the same, unto our Brethren of <hi>Scotland:</hi> And it is hereby further Ordered, Ordained and declared, That the Committée of Parliament and of the City of <hi>London,</hi> shall have power and authority, to advance the service of raising the said sums of Mony by voluntary loanes or con<g ref="char:EOLhyphen"/>tributions, in such manner, and by such meanes as they shall finde to be most conducible thereunto.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
